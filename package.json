@@ -1,0 +1,34 @@
+{
+  "name": "react-1",
+  "version": "1.0.0",
+  "description": "This is a practice of a React Course",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitpastor/namaste-react.git"
+  },
+  "keywords": [
+    "reatc",
+    "namaste",
+    "react"
+  ],
+  "author": "Ankit Pastor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitpastor/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ankitpastor/namaste-react#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
