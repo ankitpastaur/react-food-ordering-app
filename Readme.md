@@ -13,3 +13,7 @@
 - -- Address
 - -- Contact
   \*/
+
+#2 types of routing in web apps
+I. Clinet side routing
+II. Server side routing
