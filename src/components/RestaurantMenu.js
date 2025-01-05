@@ -33,9 +33,9 @@ const RestaurantMenu = () => {
       </h3>
       <h2>Menu</h2>
       <ul>
-        {itemCards.map((res) => {
-          <li>res.card?.info?.name;</li>;
-        })}
+        {itemCards.map((res) => (
+          <li>{res.card?.info?.name}</li>
+        ))}
       </ul>
     </div>
   );
